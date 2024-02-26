@@ -1,0 +1,155 @@
+.fon{
+width:100%;
+max-width: 1950px;
+height: 930px;
+background: linear-gradient(159.5deg, #FFFFFF -30.34%, rgba(255, 255, 255, 0) 106.22%), #CECECE;
+display:flex;
+position:relative;
+flex-flow:column wrap;
+justify-content:flex-start;
+}
+
+
+.poloska1{
+display:flex;
+position:relative;
+height:930px;
+margin-left: 870px;
+width:30px;
+background: #000000;
+}
+
+
+.poloska2{
+display:flex;
+position:relative;
+height:930px;
+width:30px;
+background: #673809;
+}
+
+
+.poloska3{
+display:flex;
+position:relative;
+height:930px;
+width:30px;
+background: #4ED9EE;
+}
+
+
+.poloska4{
+display:flex;
+position:relative;
+height:930px;
+width:30px;
+background: #FFABC5;
+}
+
+
+.poloska5{
+display:flex;
+position:relative;
+height:930px;
+width:30px;
+background: #FF0000;
+}
+
+
+.poloska6{
+display:flex;
+position:relative;
+height:930px;
+width:30px;
+background: #FF8F00;
+}
+
+
+.poloska7{
+display:flex;
+position:relative;
+height:930px;
+width:30px;
+background: #FDFF00;
+}
+
+
+.poloska8{
+display:flex;
+position:relative;
+height:930px;
+width:30px;
+background: #00C200;
+}
+
+
+.poloska9{
+display:flex;
+position:relative;
+height:930px;
+width:30px;
+background: #0000FF;
+}
+
+
+.poloska10{
+display:flex;
+position:relative;
+height:930px;
+width:30px;
+margin-right: 1020px;
+background: #82008D;
+}
+
+.kartinka{
+display:flex;
+position:relative;
+width: 245px;
+height: 354px;
+right:35px;
+top:200px;
+z-index:1
+}
+.transparent-background {
+    align-items:flex-start;
+    background-image: none;
+}
+
+
+.text1{
+display:flex;
+position:relative;
+width: 157px;
+height: 77px;
+left: 80px;
+top: 44px;
+font-family: 'Inter';
+font-weight: 700;
+font-size: 64px;
+color: #808080;
+}
+
+.text2{
+display:flex;
+position:relative;
+width: 290px;
+height: 98px;
+left: 80px;
+top: 600px;
+font-family: 'Inter';
+font-weight: 700;
+font-size: 24px;
+color: #000000;
+}
+
+
+
+.border{
+border-top: 7px solid black;
+border-right: 2px dashed black;
+border-bottom: 3px dotted black;
+border-left: 4px double black;
+}
+.shadow{
+text-shadow: 2px 2px 2px black;
+}
